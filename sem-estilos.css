@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+}
+
+.titulo_chapilin{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.foto_chapilin{
+    margin-top: 50px;
+    margin-left: 500px;
+    height: 500px;
+}
+
+.titulo_lista{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+.listalista{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
